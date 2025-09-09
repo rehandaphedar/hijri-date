@@ -9,18 +9,18 @@ import (
 
 var gregorian [13]string = [13]string{
 	"",
-	"Muharram",
-	"Safar",
-	"Rabi' Al-Awwal",
-	"Rabi' Al-Thani",
-	"Jumada Al-Awwal",
-	"Jumada Al-Thani",
+	"Muḥarram",
+	"Ṣafar",
+	"Rabīʿ Al Awwal",
+	"Rabīʿ Ath Thānī",
+	"Jumādā Al Awwal",
+	"Jumādā Ath Thānī",
 	"Rajab",
-	"Sha'aban",
-	"Ramadan",
-	"Shawwal",
-	"Dhu Al-Qi'dah",
-	"Dhu Al-Hijjah",
+	"Shaʿbān",
+	"Ramaḍān",
+	"Shawwāl",
+	"Dhul Qaʿdah",
+	"Dhul Ḥijjah",
 }
 
 func main() {
