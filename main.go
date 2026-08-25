@@ -11,16 +11,16 @@ var gregorian [13]string = [13]string{
 	"",
 	"Muḥarram",
 	"Ṣafar",
-	"Rabīʿ Al Awwal",
-	"Rabīʿ Ath Thānī",
-	"Jumādā Al Awwal",
-	"Jumādā Ath Thānī",
+	"Rabīʿ Al-Awwal",
+	"Rabīʿ Ath-Thānī",
+	"Jumādā Al-Awwal",
+	"Jumādā Ath-Thānī",
 	"Rajab",
 	"Shaʿbān",
 	"Ramaḍān",
 	"Shawwāl",
-	"Dhul Qaʿdah",
-	"Dhul Ḥijjah",
+	"Dhu Al-Qaʿdah",
+	"Dhu Al-Ḥijjah",
 }
 
 func main() {
