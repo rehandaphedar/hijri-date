@@ -17,5 +17,5 @@ hijri-date
 # Example Output
 
 ```
-14 Dhu Al-Hijjah 1442-12-14
+14 Dhu Al-Ḥijjah 1442-12-14
 ```
